@@ -1,7 +1,7 @@
 id: P003109
 initial_creation_type: ocr
 created_at: 27/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:40:52.205791
 source_metadata:
   id: bdr:W1PD45496
   title: གསུང་འབུམ། རིན་ཆེན་གྲུབ ༼བྲིས་མ༽
@@ -175,3 +175,5 @@ source_metadata:
       volume_number: 28
       total_pages: 838
       base_file: v028.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
